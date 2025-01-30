@@ -3,3 +3,4 @@
 /logs
 /gpt2_fine_tuned_model
 *.csv
+/gpt2_large_fine_tuned
