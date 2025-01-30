@@ -1,0 +1,5 @@
+/dataset
+/fine_tuned_model
+/logs
+/gpt2_fine_tuned_model
+*.csv
